@@ -14,7 +14,7 @@
 
 #if VERSIONMAC
 //#define PathTypeSystem	3
-#include <Quicktime/Quicktime.h>
+//#include <Quicktime/Quicktime.h>
 #include <CoreServices/CoreServices.h>
 Ptr	gOldState = NULL;
 BOOL gIsFullScreen = FALSE;
